@@ -1,0 +1,18 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\ClientZnakiZodiaka\ClientZnakiZodiaka\bin\Debug\ClientZnakiZodiaka.exe.config
+c:\users\vladimir\documents\visual studio 2015\Projects\ClientZnakiZodiaka\ClientZnakiZodiaka\bin\Debug\ClientZnakiZodiaka.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\ClientZnakiZodiaka\ClientZnakiZodiaka\bin\Debug\ClientZnakiZodiaka.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\ClientZnakiZodiaka\ClientZnakiZodiaka\obj\Debug\ClientZnakiZodiaka.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\ClientZnakiZodiaka\ClientZnakiZodiaka\obj\Debug\ClientZnakiZodiaka.Form1.resources
+c:\users\vladimir\documents\visual studio 2015\Projects\ClientZnakiZodiaka\ClientZnakiZodiaka\obj\Debug\ClientZnakiZodiaka.Properties.Resources.resources
+c:\users\vladimir\documents\visual studio 2015\Projects\ClientZnakiZodiaka\ClientZnakiZodiaka\obj\Debug\ClientZnakiZodiaka.csproj.GenerateResource.Cache
+c:\users\vladimir\documents\visual studio 2015\Projects\ClientZnakiZodiaka\ClientZnakiZodiaka\obj\Debug\ClientZnakiZodiaka.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\ClientZnakiZodiaka\ClientZnakiZodiaka\obj\Debug\ClientZnakiZodiaka.pdb
+C:\Users\Vladimir\Desktop\Zodiac\ClientZnakiZodiaka\ClientZnakiZodiaka\bin\Debug\ClientZnakiZodiaka.exe.config
+C:\Users\Vladimir\Desktop\Zodiac\ClientZnakiZodiaka\ClientZnakiZodiaka\obj\Debug\ClientZnakiZodiaka.exe
+C:\Users\Vladimir\Desktop\Zodiac\ClientZnakiZodiaka\ClientZnakiZodiaka\obj\Debug\ClientZnakiZodiaka.pdb
+C:\Users\Vladimir\Desktop\Zodiac\ClientZnakiZodiaka\ClientZnakiZodiaka\bin\Debug\ClientZnakiZodiaka.exe
+C:\Users\Vladimir\Desktop\Zodiac\ClientZnakiZodiaka\ClientZnakiZodiaka\bin\Debug\ClientZnakiZodiaka.pdb
+C:\Users\Vladimir\Desktop\Zodiac\ClientZnakiZodiaka\ClientZnakiZodiaka\obj\Debug\ClientZnakiZodiaka.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\Zodiac\ClientZnakiZodiaka\ClientZnakiZodiaka\obj\Debug\ClientZnakiZodiaka.Form1.resources
+C:\Users\Vladimir\Desktop\Zodiac\ClientZnakiZodiaka\ClientZnakiZodiaka\obj\Debug\ClientZnakiZodiaka.Properties.Resources.resources
+C:\Users\Vladimir\Desktop\Zodiac\ClientZnakiZodiaka\ClientZnakiZodiaka\obj\Debug\ClientZnakiZodiaka.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\HostZnakiZodiaka\HostZnakiZodiaka\bin\Debug\HostZnakiZodiaka.exe.config
+c:\users\vladimir\documents\visual studio 2015\Projects\HostZnakiZodiaka\HostZnakiZodiaka\bin\Debug\HostZnakiZodiaka.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HostZnakiZodiaka\HostZnakiZodiaka\bin\Debug\HostZnakiZodiaka.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\HostZnakiZodiaka\HostZnakiZodiaka\bin\Debug\ZnakiLibrary.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\HostZnakiZodiaka\HostZnakiZodiaka\bin\Debug\ZnakiLibrary.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\HostZnakiZodiaka\HostZnakiZodiaka\obj\Debug\HostZnakiZodiaka.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\HostZnakiZodiaka\HostZnakiZodiaka\obj\Debug\HostZnakiZodiaka.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HostZnakiZodiaka\HostZnakiZodiaka\obj\Debug\HostZnakiZodiaka.pdb
+C:\Users\Vladimir\Desktop\Zodiac\HostZnakiZodiaka\HostZnakiZodiaka\bin\Debug\HostZnakiZodiaka.exe.config
+C:\Users\Vladimir\Desktop\Zodiac\HostZnakiZodiaka\HostZnakiZodiaka\obj\Debug\HostZnakiZodiaka.exe
+C:\Users\Vladimir\Desktop\Zodiac\HostZnakiZodiaka\HostZnakiZodiaka\obj\Debug\HostZnakiZodiaka.pdb
+C:\Users\Vladimir\Desktop\Zodiac\HostZnakiZodiaka\HostZnakiZodiaka\bin\Debug\HostZnakiZodiaka.exe
+C:\Users\Vladimir\Desktop\Zodiac\HostZnakiZodiaka\HostZnakiZodiaka\bin\Debug\HostZnakiZodiaka.pdb
+C:\Users\Vladimir\Desktop\Zodiac\HostZnakiZodiaka\HostZnakiZodiaka\bin\Debug\ZnakiLibrary.dll
+C:\Users\Vladimir\Desktop\Zodiac\HostZnakiZodiaka\HostZnakiZodiaka\bin\Debug\ZnakiLibrary.pdb
+C:\Users\Vladimir\Desktop\Zodiac\HostZnakiZodiaka\HostZnakiZodiaka\obj\Debug\HostZnakiZodiaka.csprojResolveAssemblyReference.cache

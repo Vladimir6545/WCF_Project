@@ -1,0 +1,12 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\ZnakiLibrary\ZnakiLibrary\bin\Debug\ZnakiLibrary.dll.config
+c:\users\vladimir\documents\visual studio 2015\Projects\ZnakiLibrary\ZnakiLibrary\bin\Debug\ZnakiLibrary.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\ZnakiLibrary\ZnakiLibrary\bin\Debug\ZnakiLibrary.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\ZnakiLibrary\ZnakiLibrary\obj\Debug\ZnakiLibrary.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\ZnakiLibrary\ZnakiLibrary\obj\Debug\ZnakiLibrary.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\ZnakiLibrary\ZnakiLibrary\obj\Debug\ZnakiLibrary.pdb
+C:\Users\Vladimir\Desktop\Zodiac\ZnakiLibrary\ZnakiLibrary\bin\Debug\ZnakiLibrary.dll.config
+C:\Users\Vladimir\Desktop\Zodiac\ZnakiLibrary\ZnakiLibrary\bin\Debug\ZnakiLibrary.dll
+C:\Users\Vladimir\Desktop\Zodiac\ZnakiLibrary\ZnakiLibrary\bin\Debug\ZnakiLibrary.pdb
+C:\Users\Vladimir\Desktop\Zodiac\ZnakiLibrary\ZnakiLibrary\obj\Debug\ZnakiLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\Zodiac\ZnakiLibrary\ZnakiLibrary\obj\Debug\ZnakiLibrary.dll
+C:\Users\Vladimir\Desktop\Zodiac\ZnakiLibrary\ZnakiLibrary\obj\Debug\ZnakiLibrary.pdb

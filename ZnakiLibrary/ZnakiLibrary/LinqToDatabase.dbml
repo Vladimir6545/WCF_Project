@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ZnakiZodiaka" Class="LinqToDatabaseDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=VLADIMIR-PK;Initial Catalog=ZnakiZodiaka;Integrated Security=True" SettingsObjectName="ZnakiLibrary.Properties.Settings" SettingsPropertyName="ZnakiZodiakaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Znaki" Member="Znakis">
+    <Type Name="Znaki">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Discription" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="image" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
